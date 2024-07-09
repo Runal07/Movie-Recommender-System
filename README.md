@@ -25,10 +25,11 @@ tmdb_5000_movies.csv: Dataset containing movie information.
 tmdb_5000_credits.csv: Dataset containing movie credits information.
 
 <b>Installation</b>
-1. Clone the repository: "git clone https://github.com/yourusername/movie-recommendation-system.git"
+1. Clone the repository: "git clone https://github.com/Runal07/movie-recommendation-system.git"
 2. Navigate to the project directory: cd movie-recommendation-system
 3. Extract the similarity.tar file: "tar -xzvf similarity.tar.gz"
 4. Install the required dependencies: "pip install -r requirements.txt"
+5. Create an tmdb api for movies on tmdb website to use it your code
 
 <b>Usage</b>
 1. Run the Streamlit application: "streamlit run app.py"
